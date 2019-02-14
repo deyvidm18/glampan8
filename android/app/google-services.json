@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "799456839966",
+    "firebase_url": "https://glampan8.firebaseio.com",
+    "project_id": "glampan8",
+    "storage_bucket": "glampan8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799456839966:android:f259417d2a3b11ee",
+        "android_client_info": {
+          "package_name": "com.wegeeku.glampan8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799456839966-cre61bsu1sa40tqejj3a19egji61rul2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAqnJLWzf0rtmJXpiOzvuds5i96J614jA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
